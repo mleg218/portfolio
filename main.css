@@ -108,6 +108,23 @@ form#survey > fieldset {
     margin: 10px;
 }
 
+input {
+    width: 100%;
+    margin: 8px 0;
+    color: blanchedalmond;
+}
+
+input:focus {
+    border: 3px solid rgb(0, 34, 7);
+}
+
+input#message {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box  ;
+}
+
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
