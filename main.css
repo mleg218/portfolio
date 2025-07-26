@@ -125,6 +125,14 @@ input#message {
     box-sizing: border-box  ;
 }
 
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: rgb(0, 61, 13);
+    color:blanchedalmond;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
