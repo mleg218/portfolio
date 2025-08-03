@@ -2,10 +2,10 @@
 
 /* 
     CIS 162
-    Project 2-4
+    Project 2-5
     Style sheet 
     Author : Matthew Legaspi
-    Date : 7/31/25
+    Date : 8/2/25
     Filename : main.css
 */
 
@@ -21,7 +21,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: grid;
-    grid-template-rows: 300px 300px 300px 300px;
+    grid-template-rows: 300px 500px 500px 300px;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
     'header header'
